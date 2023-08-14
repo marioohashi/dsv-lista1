@@ -176,7 +176,7 @@ namespace ExerciciosMenu
 
             for (int i = 0; i < tamanho; i++)
             {
-                vetor[i] = random.Next(1, 101); // Gera números entre 1 e 10000
+                vetor[i] = random.Next(1, 10001); // Gera números entre 1 e 10000
             }
 
             foreach (int num in vetor)
