@@ -1,0 +1,15 @@
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/bin/Debug/net7.0/lista1
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/bin/Debug/net7.0/lista1.deps.json
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/bin/Debug/net7.0/lista1.runtimeconfig.json
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/bin/Debug/net7.0/lista1.dll
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/bin/Debug/net7.0/lista1.pdb
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.csproj.AssemblyReference.cache
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.AssemblyInfoInputs.cache
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.AssemblyInfo.cs
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.csproj.CoreCompileInputs.cache
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.dll
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/refint/lista1.dll
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.pdb
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/lista1.genruntimeconfig.cache
+/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/Debug/net7.0/ref/lista1.dll

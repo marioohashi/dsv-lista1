@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/lista1/lista1.csproj",
+      "projectUniqueName": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/lista1.csproj",
       "projectName": "lista1",
-      "projectPath": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/lista1/lista1.csproj",
+      "projectPath": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/lista1.csproj",
       "packagesPath": "/Users/marioohashi/.nuget/packages/",
-      "outputPath": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/lista1/obj/",
+      "outputPath": "/Users/marioohashi/Library/CloudStorage/Dropbox/Faculdade/4P/DEV/DSV/dsv-lista1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marioohashi/.nuget/NuGet/NuGet.Config"
